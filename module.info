@@ -1,0 +1,3 @@
+name=upload
+desc=File Upload
+os_support=solaris redhat-linux debian-linux slackware-linux suse-linux aix hpux freebsd osf1 irix

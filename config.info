@@ -1,0 +1,6 @@
+only_stand=Allow upload only to standard directory,1,1-Yes,0-No
+standard_dir=Standard directory,0
+user=Unix user for chown on files, 5
+group=Unix group for chgrp on files, 6
+maxlength=Maximum length of files (in Bytes; 0 for unlimited), 0
+acceptmime=MIME Type to accept, 0
